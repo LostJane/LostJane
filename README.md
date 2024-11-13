@@ -2,12 +2,6 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="file:///C:/Users/PC/Downloads/Vídeo%20sin%20título%20‐%20Hecho%20con%20Clipchamp.gif"  />
-</div>
-
-###
-
 <p align="left">🍄 Mis intereses son la programacion, el diseño y la ciberseguridad<br>🌱 Estoy aprendiendo programacion en c<br>📫Puedes contactarme en este correo: cinthia.martinez8704@alumnos.udg.mx<br>🍉 Pronouns: She/Her<br>🎹 Algunos otros intereses: La musica, el dibujo y la escritura</p>
 
 ###
@@ -26,12 +20,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LostJane/LostJane/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LostJane/count.svg?"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/LostJane/count.svg?"  />
+  <img height="200" src="https://imgflip.com/gif/9a5rro"  />
 </div>
 
 ###
