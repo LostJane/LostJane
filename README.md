@@ -1,34 +1,16 @@
-<h1 align="center">Hola, soy Jane!</h1>
-<p align="center"><img src="https://github.com/LostJane/Dibujos/blob/main/V%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp.gif?raw=true" alt="project-image"></p>
+# 𓆩^._.^𓆪 Hola, soy Jane! 𓆩ꨄ︎𓆪
 
-###
 
-<p align="left">🍄 Mis intereses son la programacion, el diseño y la ciberseguridad<br>🌱 Estoy aprendiendo programacion en c<br>📫Puedes contactarme en este correo: cinthia.martinez8704@alumnos.udg.mx<br>🍉 Pronouns: She/Her<br>🎹 Algunos otros intereses: La musica, el dibujo y la escritura</p>
+![App Screenshot](https://imgs.search.brave.com/RIuuwQ3LH-qUSbYp3U_zOlGnntL7xcyCuTO2YpInAiY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvb21v/cmktcGZwLWVtby1t/YXJpLWVyZXdsazZt/YjUzOWhmNTEuanBn)
 
-###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
 
-###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+## ᯓ★ Sobre mi...
+*Actualmente estoy aprendiendo programacion, he programado en C, C++, Python y Java ˗ˏˋ ★ ˎˊ˗  
+*Me encanta el dibujo, la escritura y las animaciones  
+.・。.・゜✭・.・✫・゜・。.
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LostJane/count.svg?"  />
-</div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://es.pinterest.com/pin/935411785157159630/"  />
-</div>
-
-###
